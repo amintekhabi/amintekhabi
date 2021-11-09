@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amintekhabi
-- 👀 I’m interested in machine learning
+- 👀 I’m interested in machine learning and R programming
 - 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on machine learning
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
